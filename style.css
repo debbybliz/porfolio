@@ -1,0 +1,56 @@
+.hero{
+  background-image:url(HKVW.gif);
+  background-size:contain;
+  height:260PX;
+  margin-bottom:100px;
+  border:0px;
+}
+body{
+  background-color:rgba(242, 231, 243, 0.836);
+}
+h1{
+  display:block;
+  color:white;
+  font-size:100px;
+  margin-bottom:200px;
+  text-align:center;
+  text-shadow:-4px 4px 4px rgba(247, 219, 248, 0.836);
+}
+.about{
+  display:flex;
+  justify-content:space-around;
+  text-align:end;
+  color: rgb(0, 0, 0);
+  font-size:16px;
+  margin:0px;
+  color: white;
+ 
+}
+
+.intro{
+  display:flex;
+  justify-content:space-around;
+  width:800px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+  color:rgb(0, 0, 0);
+}
+
+img{
+  width:30%;
+  margin-bottom:180px;
+  margin-left:20px;
+  border:0px solid black;
+  border-radius:12px;
+}
+
+p{
+  font-size:30px;
+  font-weight:bold;
+  text-shadow:-4px 4px 3px rgb(184, 179, 179);
+}
+
+h3{
+  font-weight:bold;
+}
